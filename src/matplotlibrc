@@ -6,7 +6,7 @@
 xtick.labelsize : 18
 ytick.labelsize : 18
 font.size : 18
-figure.figsize : 6.64306,4.5
+figure.figsize : 6.5,5
 axes.titlesize : 16
 axes.labelsize : 18
 lines.linewidth : 2
